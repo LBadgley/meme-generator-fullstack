@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`meme tests renders the Meme 1`] = `
+<Fragment>
+  <DisplayView
+    bottomText=""
+    handleChange={[Function]}
+    image=""
+    topText=""
+  />
+  <ImagePicker
+    handleChange={[Function]}
+    image=""
+  />
+  <TextPicker
+    bottomText=""
+    handleChange={[Function]}
+    topText=""
+  />
+</Fragment>
+`;
