@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`image component tests renders the image component 1`] = `
+<Fragment>
+  <p>
+    Image: 
+  </p>
+  <input
+    name="image"
+    type="text"
+  />
+</Fragment>
+`;

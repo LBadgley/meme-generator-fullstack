@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`text component test renders the text component 1`] = `
+<Fragment>
+  <p>
+    Top Text:
+  </p>
+  <input
+    name="topText"
+    type="text"
+  />
+  <p>
+    Bottom text:
+  </p>
+  <input
+    name="bottomText"
+    type="text"
+  />
+</Fragment>
+`;
